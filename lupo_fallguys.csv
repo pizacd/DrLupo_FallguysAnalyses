@@ -1,0 +1,346 @@
+match_id,gamer_id,round1_name,round1_type,round1_win,round2_name,round2_type,round2_win,round3_name,round3_type,round3_win,round4_name,round4_type,round4_win,round5_name,round5_type,round5_win,round6_name,round6_type,round6_win,crown,date_played
+16,5,Door Dash,Race,t,Dizzy Heights,Race,t,Jump Club,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-13
+1,5,The Whirlygig,Race,t,Gate Crash,Race,f,,,,,,,,,,,,,f,2020-08-06
+33,5,Door Dash,Race,t,Dizzy Heights,Race,t,Fruit Chute,Race,t,Fall Mountain,Final,f,,,,,,,f,2020-08-14
+2,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Fruit Chute,Race,f,,,,,,,,,,f,2020-08-06
+42,5,Dizzy Heights,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-14
+17,5,See Saw,Race,t,Hoarders,Team,t,Rock n Roll,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-13
+25,5,Gate Crash,Race,t,Door Dash,Race,t,Perfect Match,Logic,t,Tail Tag,Hunt,t,Jump Showdown,Final,f,,,,f,2020-08-13
+4,5,Slime Climb,Race,f,,,,,,,,,,,,,,,,f,2020-08-06
+34,5,Gate Crash,Race,t,Tail Tag,Team,f,,,,,,,,,,,,,f,2020-08-14
+26,5,Gate Crash,Race,t,Tail Tag,Team,t,Perfect Match,Logic,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-13
+5,5,Door Dash,Race,t,Hoarders,Team,t,Fruit Chute,Race,f,,,,,,,,,,f,2020-08-06
+6,5,Gate Crash,Race,t,Fruit Chute,Race,t,Rock n Roll,Team,f,,,,,,,,,,f,2020-08-06
+18,5,Dizzy Heights,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Jump Showdown,Final,f,,,,,,,f,2020-08-13
+14,5,Door Dash,Race,t,Roll Out,Survival,t,Perfect Match,Logic,t,Tail Tag,Hunt,t,Hex-a-Gone,Final,t,,,,t,2020-08-06
+7,5,The Whirlygig,Race,t,Door Dash,Race,t,Perfect Match,Logic,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,f,2020-08-06
+8,5,Slime Climb,Race,t,Hex-a-Gone,Final,f,,,,,,,,,,,,,f,2020-08-06
+35,5,Gate Crash,Race,t,Door Dash,Race,t,Jump Club,Survival,f,,,,,,,,,,f,2020-08-14
+9,5,Hit Parade,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Fall Mountain,Final,t,,,,,,,t,2020-08-06
+10,5,Hit Parade,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-06
+43,5,Gate Crash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-14
+20,5,Dizzy Heights,Race,t,Perfect Match,Logic,f,,,,,,,,,,,,,f,2020-08-13
+11,5,Gate Crash,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Block Party,Survival,f,,,,,,,f,2020-08-06
+28,5,Door Dash,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-14
+12,5,The Whirlygig,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,,,,f,2020-08-06
+13,5,Dizzy Heights,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-06
+44,5,The Whirlygig,Race,f,,,,,,,,,,,,,,,,f,2020-08-14
+21,5,Door Dash,Race,t,Perfect Match,Logic,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,t,,,,t,2020-08-13
+36,5,See Saw,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Block Party,Survival,t,Jump Showdown,Final,f,,,,f,2020-08-14
+29,5,Hit Parade,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,t,,,,f,2020-08-14
+15,5,The Whirlygig,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Jump Showdown,Final,f,,,,,,,f,2020-08-13
+22,5,See Saw,Race,t,Perfect Match,Logic,t,Hoarders,Team,t,Block Party,Survival,t,Jump Showdown,Final,f,,,,f,2020-08-13
+51,5,See Saw,Race,t,Hit Parade,Race,t,Fruit Chute,Race,t,Jump Showdown,Final,f,,,,,,,f,2020-08-14
+37,5,Dizzy Heights,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-14
+30,5,Gate Crash,Race,t,Hoarders,Team,t,Fruit Chute,Race,t,Block Party,Survival,f,,,,,,,f,2020-08-14
+23,5,The Whirlygig,Race,t,Tail Tag,Team,t,Hoopsie Daisy,Team,t,Block Party,Survival,f,,,,,,,f,2020-08-13
+48,5,Dizzy Heights,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-14
+24,5,Dizzy Heights,Race,t,See Saw,Race,t,Roll Out,Survival,t,Block Party,Survival,f,,,,,,,f,2020-08-13
+45,5,Hit Parade,Race,t,Roll Out,Survival,t,Fruit Chute,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-14
+31,5,Door Dash,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-14
+32,5,Dizzy Heights,Race,t,Slime Climb,Race,f,,,,,,,,,,,,,f,2020-08-14
+52,5,Gate Crash,Race,t,,,,,,,,,,,,,,,,f,2020-08-14
+49,5,Hit Parade,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Rock n Roll,Team,f,,,,,,,f,2020-08-14
+39,5,Door Dash,Race,t,Slime Climb,Race,t,Tip Toe,Race,f,,,,,,,,,,f,2020-08-14
+46,5,The Whirlygig,Race,t,Roll Out,Survival,t,Egg Scramble,Team,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,f,2020-08-14
+40,5,The Whirlygig,Race,t,Tail Tag,Team,t,Slime Climb,Race,f,,,,,,,,,,f,2020-08-14
+41,5,See Saw,Race,f,,,,,,,,,,,,,,,,f,2020-08-14
+57,5,Hit Parade,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-15
+53,5,Dizzy Heights,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-14
+47,5,Gate Crash,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Tip Toe,Race,t,Royal Fumble,Final,t,,,,t,2020-08-14
+50,5,Door Dash,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-14
+58,5,Gate Crash,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,t,2020-08-15
+54,5,Hit Parade,Race,f,,,,,,,,,,,,,,,,f,2020-08-14
+55,5,Dizzy Heights,Race,t,See Saw,Race,f,,,,,,,,,,,,,f,2020-08-14
+63,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Jump Club,Survival,f,,,,,,,,,,f,2020-08-15
+59,5,Door Dash,Race,t,Perfect Match,Logic,t,Roll Out,Survival,t,Block Party,Survival,f,,,,,,,f,2020-08-15
+61,5,Gate Crash,Race,t,Hoarders,Team,t,Tip Toe,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,f,,,,f,2020-08-15
+60,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-15
+62,5,See Saw,Race,t,Roll Out,Survival,f,,,,,,,,,,,,,f,2020-08-15
+65,5,Dizzy Heights,Race,t,The Whirlygig,Race,t,Perfect Match,Logic,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-15
+64,5,Gate Crash,Race,t,The Whirlygig,Race,t,Fruit Chute,Race,t,Block Party,Survival,f,,,,,,,f,2020-08-15
+218,5,The Whirlygig,Race,t,Hoarders,Team,t,Tail Tag,Hunt,f,,,,,,,,,,f,2020-08-20
+27,5,Door Dash,Race,t,Hit Parade,Race,t,Fruit Chute,Race,t,Fall Ball,Team,f,,,,,,,f,2020-08-13
+68,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Tail Tag,Team,f,,,,,,,,,,f,2020-08-15
+103,5,See Saw,Race,t,Hoarders,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-17
+88,5,The Whirlygig,Race,t,Tail Tag,Team,t,Jump Club,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-17
+70,5,The Whirlygig,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,t,,,,,,,t,2020-08-15
+104,5,Dizzy Heights,Race,t,See Saw,Race,t,Egg Scramble,Team,t,Rock n Roll,Team,t,Jump Showdown,Final,t,,,,t,2020-08-17
+89,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,f,,,,f,2020-08-17
+90,5,The Whirlygig,Race,t,Hit Parade,Race,t,Perfect Match,Logic,t,Block Party,Survival,f,,,,,,,f,2020-08-17
+131,5,Hit Parade,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Rock n Roll,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+105,5,Gate Crash,Race,t,Hit Parade,Race,t,Perfect Match,Logic,t,Egg Scramble,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+91,5,Dizzy Heights,Race,t,Hit Parade,Race,t,Slime Climb,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,f,,,,f,2020-08-17
+129,5,Hit Parade,Race,t,Dizzy Heights,Race,t,Fruit Chute,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,t,,,,t,2020-08-18
+139,5,Gate Crash,Race,t,Door Dash,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,f,,,,f,2020-08-18
+132,5,The Whirlygig,Race,t,Slime Climb,Race,f,,,,,,,,,,,,,f,2020-08-18
+92,5,Gate Crash,Race,t,Tail Tag,Team,t,Perfect Match,Logic,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+93,5,Hit Parade,Race,t,,,,,,,,,,,,,,,,f,2020-08-17
+152,5,Hit Parade,Race,t,Hoarders,Team,t,Hoopsie Daisy,Team,t,Tip Toe,Race,f,,,,,,,f,2020-08-18
+94,5,Door Dash,Race,t,Hoarders,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-17
+201,5,See Saw,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-20
+134,5,The Whirlygig,Race,t,Roll Out,Survival,t,Block Party,Survival,f,,,,,,,,,,f,2020-08-18
+196,5,Dizzy Heights,Race,t,Gate Crash,Race,t,Egg Scramble,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-20
+162,5,Dizzy Heights,Race,t,Hit Parade,Race,t,Egg Scramble,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+158,5,Dizzy Heights,Race,t,Door Dash,Race,t,Slime Climb,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-18
+191,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,t,2020-08-19
+159,5,Door Dash,Race,t,Jinxed,Team,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,,,,t,2020-08-18
+137,5,The Whirlygig,Race,t,Egg Scramble,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Fall Mountain,Final,t,t,2020-08-18
+155,5,Door Dash,Race,t,See Saw,Race,t,Slime Climb,Race,t,Block Party,Survival,t,Fall Ball,Team,t,Fall Mountain,Final,t,t,2020-08-18
+138,5,Hit Parade,Race,t,Hoarders,Team,t,Egg Scramble,Team,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-18
+160,5,Hit Parade,Race,t,Dizzy Heights,Race,t,Egg Scramble,Team,t,Block Party,Survival,f,,,,,,,f,2020-08-18
+192,5,Gate Crash,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,t,,,,,,,t,2020-08-20
+197,5,Door Dash,Race,t,Hit Parade,Race,t,Egg Scramble,Team,f,,,,,,,,,,f,2020-08-20
+195,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,f,,,,f,2020-08-20
+161,5,The Whirlygig,Race,t,Hit Parade,Race,t,Slime Climb,Race,t,Rock n Roll,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+199,5,The Whirlygig,Race,t,Egg Scramble,Team,t,Tail Tag,Hunt,t,Hex-a-Gone,Final,t,,,,,,,t,2020-08-20
+193,5,The Whirlygig,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,t,,,,,,,t,2020-08-20
+221,5,Dizzy Heights,Race,t,Door Dash,Race,t,Slime Climb,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,t,,,,t,2020-08-20
+219,5,The Whirlygig,Race,t,Roll Out,Survival,t,Tip Toe,Race,f,,,,,,,,,,f,2020-08-20
+198,5,Dizzy Heights,Race,t,Egg Scramble,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-20
+200,5,Gate Crash,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,,,,,,,,,,f,2020-08-20
+203,5,See Saw,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-20
+202,5,Door Dash,Race,t,Egg Scramble,Team,t,Slime Climb,Race,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-20
+220,5,The Whirlygig,Race,t,Jinxed,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-20
+222,5,See Saw,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-20
+224,5,Hit Parade,Race,t,See Saw,Race,t,Tail Tag,Team,t,Slime Climb,Race,f,,,,,,,f,2020-08-20
+223,5,Gate Crash,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Tip Toe,Race,t,Fall Ball,Team,t,Royal Fumble,Final,t,t,2020-08-20
+225,5,Door Dash,Race,t,Gate Crash,Race,t,Slime Climb,Race,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,t,,,,t,2020-08-20
+226,5,Gate Crash,Race,t,See Saw,Race,t,Hoarders,Team,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,f,2020-08-20
+227,5,The Whirlygig,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-20
+67,5,Gate Crash,Race,t,Perfect Match,Logic,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-15
+71,5,The Whirlygig,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-17
+106,5,Gate Crash,Race,t,,,,,,,,,,,,,,,,f,2020-08-17
+73,5,The Whirlygig,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-17
+115,5,Hit Parade,Race,t,Perfect Match,Logic,t,Jump Club,Survival,t,Fall Mountain,Final,f,,,,,,,f,2020-08-18
+74,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Tail Tag,Team,t,Block Party,Survival,f,,,,,,,f,2020-08-17
+75,5,Dizzy Heights,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-17
+107,5,Hit Parade,Race,t,Jinxed,Team,t,Jump Club,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-17
+76,5,See Saw,Race,t,Egg Scramble,Team,t,Jump Club,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-17
+146,5,Door Dash,Race,t,Roll Out,Survival,t,Egg Scramble,Team,t,Tip Toe,Race,f,,,,,,,f,2020-08-18
+116,5,Hit Parade,Race,t,Egg Scramble,Team,t,Rock n Roll,Team,f,,,,,,,,,,f,2020-08-18
+97,5,See Saw,Race,t,Egg Scramble,Team,t,Block Party,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-17
+98,5,Gate Crash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-17
+80,5,Door Dash,Race,f,,,,,,,,,,,,,,,,f,2020-08-17
+79,5,Dizzy Heights,Race,t,Slime Climb,Race,f,,,,,,,,,,,,,f,2020-08-17
+169,5,Door Dash,Race,t,Gate Crash,Race,t,Jump Club,Survival,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+81,5,The Whirlygig,Race,t,Hoarders,Team,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,,,,f,2020-08-17
+109,5,Dizzy Heights,Race,t,Door Dash,Race,t,,,,,,,,,,,,,f,2020-08-17
+99,5,The Whirlygig,Race,t,Hit Parade,Race,t,Perfect Match,Logic,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Fall Mountain,Final,t,t,2020-08-17
+82,5,Door Dash,Race,t,Roll Out,Survival,t,Egg Scramble,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+117,5,Gate Crash,Race,t,Perfect Match,Logic,t,Roll Out,Survival,t,Hoopsie Daisy,Team,f,,,,,,,f,2020-08-18
+100,5,The Whirlygig,Race,t,Door Dash,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,f,2020-08-17
+110,5,The Whirlygig,Race,t,Egg Scramble,Team,t,Rock n Roll,Team,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-17
+171,5,The Whirlygig,Race,t,Roll Out,Survival,t,Perfect Match,Logic,t,Tip Toe,Race,t,Fall Ball,Team,t,Royal Fumble,Final,t,t,2020-08-19
+101,5,The Whirlygig,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,f,,,,f,2020-08-17
+147,5,Hit Parade,Race,t,The Whirlygig,Race,t,Fruit Chute,Race,t,Hoopsie Daisy,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+141,5,The Whirlygig,Race,t,Hit Parade,Race,t,Egg Scramble,Team,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-18
+111,5,Dizzy Heights,Race,t,Jinxed,Team,t,Perfect Match,Logic,t,Jump Club,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+102,5,The Whirlygig,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Fruit Chute,Race,t,Jump Showdown,Final,f,,,,f,2020-08-17
+112,5,See Saw,Race,t,Hit Parade,Race,t,Tail Tag,Hunt,t,Hex-a-Gone,Final,t,,,,,,,t,2020-08-18
+142,5,Hit Parade,Race,t,Gate Crash,Race,f,,,,,,,,,,,,,f,2020-08-18
+113,5,Gate Crash,Race,t,Roll Out,Survival,t,Fruit Chute,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-18
+143,5,See Saw,Race,t,Hoarders,Team,t,Perfect Match,Logic,f,,,,,,,,,,f,2020-08-18
+114,5,Hit Parade,Race,t,Dizzy Heights,Race,t,Rock n Roll,Type,t,Hoopsie Daisy,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+163,5,Gate Crash,Race,t,Perfect Match,Logic,t,Egg Scramble,Team,t,Fruit Chute,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+167,5,See Saw,Race,t,Perfect Match,Logic,t,Roll Out,Survival,f,,,,,,,,,,f,2020-08-18
+164,5,Hit Parade,Race,t,Jinxed,Team,t,,,,,,,,,,,,,f,2020-08-18
+144,5,See Saw,Race,t,Door Dash,Race,t,Fruit Chute,Race,t,Block Party,Survival,t,Fall Mountain,Final,f,,,,f,2020-08-18
+145,5,Dizzy Heights,Race,t,,,,,,,,,,,,,,,,f,2020-08-18
+168,5,Hit Parade,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-18
+174,5,Door Dash,Race,f,,,,,,,,,,,,,,,,f,2020-08-19
+165,5,See Saw,Race,t,Dizzy Heights,Race,t,Roll Out,Survival,t,Block Party,Survival,f,,,,,,,f,2020-08-18
+204,5,The Whirlygig,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Block Party,Survival,t,Fall Ball,Team,t,Fall Mountain,Final,f,f,2020-08-20
+172,5,Gate Crash,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Tip Toe,Race,t,Royal Fumble,Final,f,,,,f,2020-08-19
+176,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Egg Scramble,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-19
+175,5,Gate Crash,Race,t,Jinxed,Team,t,Hex-a-Gone,Final,f,,,,,,,,,,f,2020-08-19
+173,5,Gate Crash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-19
+205,5,The Whirlygig,Race,t,Hit Parade,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-20
+206,5,Dizzy Heights,Race,t,Door Dash,Race,t,Egg Scramble,Team,t,Jump Club,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-20
+207,5,The Whirlygig,Race,t,Tail Tag,Team,t,Perfect Match,Logic,t,Fruit Chute,Race,t,Fall Mountain,Final,t,,,,t,2020-08-20
+210,5,Gate Crash,Race,t,Hit Parade,Race,t,Rock n Roll,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-20
+208,5,Gate Crash,Race,t,Jinxed,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-20
+209,5,Dizzy Heights,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-20
+212,5,Gate Crash,Race,t,Door Dash,Race,t,Roll Out,Survival,f,,,,,,,,,,f,2020-08-20
+211,5,Hit Parade,Race,t,Roll Out,Survival,t,Jump Club,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Fall Mountain,Final,t,t,2020-08-20
+72,5,Gate Crash,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Jump Showdown,Final,f,,,,f,2020-08-17
+83,5,See Saw,Race,t,The Whirlygig,Race,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,t,,,,,,,t,2020-08-17
+86,5,See Saw,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Block Party,Survival,f,,,,,,,f,2020-08-17
+84,5,Hit Parade,Race,t,Door Dash,Race,t,Roll Out,Survival,t,Jump Showdown,Final,f,,,,,,,f,2020-08-17
+213,5,Dizzy Heights,Race,t,Slime Climb,Race,t,Rock n Roll,Team,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-20
+183,5,Hit Parade,Race,t,See Saw,Race,t,Perfect Match,Logic,t,Fruit Chute,Race,t,Fall Mountain,Final,f,,,,f,2020-08-19
+246,5,Gate Crash,Race,t,Tail Tag,Team,t,Jump Club,Survival,t,Tail Tag,Hunt,t,Hex-a-Gone,Final,f,,,,f,2020-08-21
+85,5,The Whirlygig,Race,t,See Saw,Race,t,Egg Scramble,Team,t,Tip Toe,Race,f,,,,,,,f,2020-08-17
+119,5,Door Dash,Race,t,Gate Crash,Race,t,Hoopsie Daisy,Team,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-18
+235,5,Dizzy Heights,Race,t,Door Dash,Race,t,Roll Out,Survival,f,,,,,,,,,,f,2020-08-21
+214,5,Gate Crash,Race,t,Perfect Match,Logic,f,,,,,,,,,,,,,f,2020-08-20
+120,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Slime Climb,Race,f,,,,,,,,,,f,2020-08-18
+184,5,The Whirlygig,Race,t,Roll Out,Survival,t,Tail Tag,Hunt,t,Fall Mountain,Final,t,,,,,,,t,2020-08-19
+149,5,Door Dash,Race,t,Tail Tag,Team,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+150,5,Hit Parade,Race,t,Door Dash,Race,t,,,,,,,,,,,,,f,2020-08-18
+121,5,Door Dash,Race,t,Dizzy Heights,Race,t,See Saw,Race,t,Rock n Roll,Team,t,Fall Mountain,Final,f,,,,f,2020-08-18
+185,5,Dizzy Heights,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-19
+122,5,Gate Crash,Race,t,See Saw,Race,t,Perfect Match,Logic,t,Egg Scramble,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+186,5,Hit Parade,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-19
+123,5,The Whirlygig,Race,t,Hit Parade,Race,t,Roll Out,Survival,f,,,,,,,,,,f,2020-08-18
+177,5,Gate Crash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-19
+124,5,Hit Parade,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Hoopsie Daisy,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+215,5,See Saw,Race,t,Tail Tag,Team,f,,,,,,,,,,,,,f,2020-08-20
+178,5,Door Dash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-19
+125,5,See Saw,Race,t,The Whirlygig,Race,t,Slime Climb,Race,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+187,5,Hit Parade,Race,t,Roll Out,Survival,t,Jump Club,Survival,t,,,,,,,,,,f,2020-08-19
+230,5,Gate Crash,Race,t,The Whirlygig,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Hoopsie Daisy,Team,t,Hex-a-Gone,Final,f,f,2020-08-20
+179,5,The Whirlygig,Race,t,Jinxed,Team,t,Hoopsie Daisy,Team,t,Fall Mountain,Final,t,,,,,,,t,2020-08-19
+127,5,Hit Parade,Race,t,Hoarders,Team,t,Block Party,Survival,f,,,,,,,,,,f,2020-08-18
+188,5,See Saw,Race,t,Tail Tag,Team,t,Perfect Match,Logic,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-19
+128,5,Gate Crash,Race,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-18
+216,5,See Saw,Race,t,Door Dash,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,f,,,,,,,f,2020-08-20
+181,5,The Whirlygig,Race,t,Roll Out,Survival,t,Egg Scramble,Team,f,,,,,,,,,,f,2020-08-19
+231,5,Door Dash,Race,t,Jinxed,Team,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,,,,t,2020-08-20
+189,5,Door Dash,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Egg Scramble,Team,t,Tip Toe,Race,f,,,,f,2020-08-19
+217,5,Door Dash,Race,t,Tail Tag,Team,f,,,,,,,,,,,,,f,2020-08-20
+228,5,Gate Crash,Race,t,Hit Parade,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,,,,,,,f,2020-08-20
+190,5,Gate Crash,Race,t,See Saw,Race,t,Egg Scramble,Team,t,Rock n Roll,Team,f,,,,,,,f,2020-08-19
+243,5,Gate Crash,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,,,,f,2020-08-21
+232,5,Dizzy Heights,Race,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-20
+236,5,Door Dash,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-21
+233,5,Dizzy Heights,Race,t,The Whirlygig,Race,t,Fruit Chute,Race,f,,,,,,,,,,f,2020-08-21
+229,5,See Saw,Race,t,Jinxed,Team,t,Tail Tag,Hunt,t,Tip Toe,Race,t,Fall Mountain,Final,t,,,,t,2020-08-20
+242,5,Hit Parade,Race,t,See Saw,Race,t,Rock n Roll,Team,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-21
+239,5,Gate Crash,Race,t,Egg Scramble,Team,t,Block Party,Survival,f,,,,,,,,,,f,2020-08-21
+234,5,Hit Parade,Race,t,Perfect Match,Logic,f,,,,,,,,,,,,,f,2020-08-21
+241,5,See Saw,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Fall Mountain,Final,f,,,,,,,f,2020-08-21
+237,5,Gate Crash,Race,t,See Saw,Race,t,Egg Scramble,Team,t,Tip Toe,Race,f,,,,,,,f,2020-08-21
+240,5,See Saw,Race,t,Roll Out,Survival,t,Slime Climb,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-21
+244,5,Door Dash,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-21
+248,5,Hit Parade,Race,t,Dizzy Heights,Race,t,Rock n Roll,Team,f,,,,,,,,,,f,2020-08-21
+245,5,Gate Crash,Race,t,Hoarders,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-21
+247,5,See Saw,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-21
+253,5,Dizzy Heights,Race,t,Gate Crash,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Fall Mountain,Final,f,,,,f,2020-08-21
+249,5,The Whirlygig,Race,t,Egg Scramble,Team,t,Jump Club,Survival,t,Block Party,Survival,f,,,,,,,f,2020-08-21
+250,5,Gate Crash,Race,t,Slime Climb,Race,f,,,,,,,,,,,,,f,2020-08-21
+251,5,The Whirlygig,Race,t,Hit Parade,Race,f,,,,,,,,,,,,,f,2020-08-21
+252,5,The Whirlygig,Race,t,Roll Out,Survival,f,,,,,,,,,,,,,f,2020-08-21
+118,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Fall Ball,Team,f,,,,,,,f,2020-08-18
+281,5,The Whirlygig,Race,t,See Saw,Race,t,Hoopsie Daisy,Team,f,,,,,,,,,,f,2020-08-21
+254,5,Hit Parade,Race,t,Perfect Match,Logic,f,,,,,,,,,,,,,f,2020-08-21
+270,5,Hit Parade,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+255,5,The Whirlygig,Race,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-21
+295,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Perfect Match,Logic,t,Slime Climb,Race,t,Fall Ball,Team,t,Fall Mountain,Final,f,f,2020-08-24
+256,5,Hit Parade,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-21
+305,5,Door Dash,Race,t,Roll Out,Survival,t,Fruit Chute,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-24
+257,5,The Whirlygig,Race,t,Egg Scramble,Team,f,,,,,,,,,,,,,f,2020-08-21
+271,5,Gate Crash,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-21
+258,5,Hit Parade,Race,t,Roll Out,Survival,t,Fruit Chute,Race,f,,,,,,,,,,f,2020-08-21
+282,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+259,5,Dizzy Heights,Race,t,Slime Climb,Race,t,Rock n Roll,Team,t,,,,,,,,,,f,2020-08-21
+272,5,Dizzy Heights,Race,t,Slime Climb,Race,t,Hex-a-Gone,Final,f,,,,,,,,,,f,2020-08-21
+289,5,Door Dash,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Tip Toe,Race,t,Royal Fumble,Final,t,,,,t,2020-08-24
+296,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Tail Tag,Hunt,t,Fall Mountain,Final,f,,,,f,2020-08-24
+273,5,Hit Parade,Race,t,Jinxed,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,,,,t,2020-08-21
+261,5,Dizzy Heights,Race,t,See Saw,Race,t,Slime Climb,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-21
+299,5,Gate Crash,Race,t,Dizzy Heights,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-24
+268,5,Door Dash,Race,t,See Saw,Race,t,Perfect Match,Logic,t,Tail Tag,Hunt,t,Fall Mountain,Final,f,,,,f,2020-08-21
+274,5,The Whirlygig,Race,t,Perfect Match,Logic,t,Tail Tag,Team,f,,,,,,,,,,f,2020-08-21
+262,5,Hit Parade,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Tip Toe,Race,t,Fall Ball,Team,t,Fall Mountain,Final,t,t,2020-08-21
+290,5,Gate Crash,Race,t,Door Dash,Race,t,Hoopsie Daisy,Team,f,,,,,,,,,,f,2020-08-24
+275,5,Hit Parade,Race,t,See Saw,Race,t,Roll Out,Survival,f,,,,,,,,,,f,2020-08-21
+263,5,Gate Crash,Race,t,Jinxed,Team,t,Slime Climb,Race,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-21
+264,5,See Saw,Race,f,,,,,,,,,,,,,,,,f,2020-08-21
+276,5,Dizzy Heights,Race,t,Roll Out,Survival,f,,,,,,,,,,,,,f,2020-08-21
+265,5,See Saw,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+284,5,Door Dash,Race,t,See Saw,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+266,5,Dizzy Heights,Race,t,Perfect Match,Logic,t,Hoopsie Daisy,Team,f,,,,,,,,,,f,2020-08-21
+267,5,Door Dash,Race,f,,,,,,,,,,,,,,,,f,2020-08-21
+277,5,Gate Crash,Race,t,The Whirlygig,Race,t,Egg Scramble,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+285,5,See Saw,Race,t,Tail Tag,Team,f,,,,,,,,,,,,,f,2020-08-21
+291,5,Door Dash,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-24
+269,5,The Whirlygig,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-21
+278,5,Gate Crash,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-21
+292,5,Hit Parade,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-24
+286,5,Door Dash,Race,t,Gate Crash,Race,t,Perfect Match,Logic,t,Slime Climb,Race,t,Fall Mountain,Final,f,,,,f,2020-08-21
+279,5,Dizzy Heights,Race,t,See Saw,Race,t,Rock n Roll,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-21
+280,5,Gate Crash,Race,t,Hoarders,Team,f,,,,,,,,,,,,,f,2020-08-21
+293,5,Hit Parade,Race,f,,,,,,,,,,,,,,,,f,2020-08-24
+287,5,Dizzy Heights,Race,t,Roll Out,Survival,f,,,,,,,,,,,,,f,2020-08-21
+300,5,Gate Crash,Race,t,Jinxed,Team,f,,,,,,,,,,,,,f,2020-08-24
+303,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-24
+297,5,See Saw,Race,t,Gate Crash,Race,t,Egg Scramble,Team,t,Jump Club,Survival,t,Tip Toe,Race,f,,,,f,2020-08-24
+288,5,See Saw,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Block Party,Survival,t,Hex-a-Gone,Final,f,,,,f,2020-08-21
+294,5,Hit Parade,Race,t,See Saw,Race,t,Egg Scramble,Team,t,Jump Club,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-24
+301,5,The Whirlygig,Race,t,Roll Out,Survival,f,,,,,,,,,,,,,f,2020-08-24
+298,5,See Saw,Race,t,Egg Scramble,Team,t,Tail Tag,Hunt,f,,,,,,,,,,f,2020-08-24
+306,5,See Saw,Race,t,Slime Climb,Race,t,Fall Ball,Team,f,,,,,,,,,,f,2020-08-24
+304,5,Dizzy Heights,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Tip Toe,Race,f,,,,,,,f,2020-08-24
+312,5,Door Dash,Race,t,Hit Parade,Race,f,,,,,,,,,,,,,f,2020-08-24
+307,5,The Whirlygig,Race,f,,,,,,,,,,,,,,,,f,2020-08-24
+310,5,Hit Parade,Race,t,See Saw,Race,t,Hoopsie Daisy,Team,t,Jump Club,Survival,f,,,,,,,f,2020-08-24
+314,5,See Saw,Race,t,Roll Out,Survival,t,Slime Climb,Race,f,,,,,,,,,,f,2020-08-24
+311,5,See Saw,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Jump Showdown,Final,f,,,,,,,f,2020-08-24
+313,5,Hit Parade,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,t,Tip Toe,Race,f,,,,,,,f,2020-08-24
+316,5,Dizzy Heights,Race,t,The Whirlygig,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Jump Showdown,Final,t,,,,t,2020-08-24
+315,5,Door Dash,Race,t,Roll Out,Survival,t,Hoopsie Daisy,Team,f,,,,,,,,,,f,2020-08-24
+317,5,The Whirlygig,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Block Party,Survival,t,Jump Showdown,Final,f,,,,f,2020-08-24
+318,5,Gate Crash,Race,t,Hit Parade,Race,t,Perfect Match,Logic,t,Egg Scramble,Team,f,,,,,,,f,2020-08-24
+260,5,The Whirlygig,Race,t,Gate Crash,Race,t,Jump Club,Survival,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-21
+319,5,The Whirlygig,Race,t,Dizzy Heights,Race,t,Rock n Roll,Team,f,,,,,,,,,,f,2020-08-24
+341,5,Door Dash,Race,t,Tail Tag,Team,f,,,,,,,,,,,,,f,2020-08-25
+332,5,Door Dash,Race,t,The Whirlygig,Race,t,Egg Scramble,Team,f,,,,,,,,,,f,2020-08-25
+320,5,Gate Crash,Race,t,The Whirlygig,Race,t,Jump Club,Survival,t,Rock n Roll,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-24
+328,5,Dizzy Heights,Race,t,Roll Out,Survival,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Fall Mountain,Final,t,,,,t,2020-08-24
+340,5,See Saw,Race,t,Egg Scramble,Team,t,Perfect Match,Logic,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Fall Mountain,Final,t,t,2020-08-25
+321,5,Door Dash,Race,t,Roll Out,Survival,t,Rock n Roll,Team,f,,,,,,,,,,f,2020-08-24
+333,5,Door Dash,Race,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-25
+322,5,Door Dash,Race,t,Tail Tag,Team,t,Fruit Chute,Race,t,Hex-a-Gone,Final,f,,,,,,,f,2020-08-24
+342,5,Dizzy Heights,Race,t,Tail Tag,Team,t,Block Party,Survival,t,Tip Toe,Race,t,Jump Showdown,Final,f,,,,f,2020-08-25
+323,5,See Saw,Race,t,Door Dash,Race,t,Slime Climb,Race,t,Tip Toe,Race,t,Hex-a-Gone,Final,t,,,,t,2020-08-24
+334,5,Gate Crash,Race,t,Tail Tag,Team,t,Jump Club,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Fall Mountain,Final,f,f,2020-08-25
+324,5,The Whirlygig,Race,t,Hoarders,Team,t,Perfect Match,Logic,t,Tip Toe,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,f,2020-08-24
+335,5,Door Dash,Race,t,Dizzy Heights,Race,t,Tail Tag,Hunt,t,Rock n Roll,Team,t,Jump Showdown,Final,f,,,,f,2020-08-25
+325,5,See Saw,Race,t,Hoarders,Team,t,Fruit Chute,Race,t,Block Party,Survival,t,Hex-a-Gone,Final,t,,,,t,2020-08-24
+326,5,Door Dash,Race,t,Perfect Match,Logic,t,Fruit Chute,Race,t,Jump Showdown,Final,t,,,,,,,t,2020-08-24
+336,5,See Saw,Race,t,Gate Crash,Race,t,Hoopsie Daisy,Team,t,Jump Showdown,Final,f,,,,,,,f,2020-08-25
+327,5,The Whirlygig,Race,t,Hoarders,Team,t,Fruit Chute,Race,f,,,,,,,,,,f,2020-08-24
+343,5,See Saw,Race,t,Hoarders,Team,t,Fruit Chute,Race,t,Block Party,Survival,t,Fall Ball,Team,t,Royal Fumble,Final,t,t,2020-08-25
+337,5,Hit Parade,Race,t,Hoarders,Team,t,Fruit Chute,Race,t,Jump Showdown,Final,f,,,,,,,f,2020-08-25
+329,5,Dizzy Heights,Race,t,See Saw,Race,t,Slime Climb,Race,t,Jump Showdown,Final,f,,,,,,,f,2020-08-24
+338,5,The Whirlygig,Race,t,Jinxed,Team,t,Block Party,Survival,f,,,,,,,,,,f,2020-08-25
+330,5,See Saw,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Block Party,Survival,t,Fall Mountain,Final,t,,,,t,2020-08-24
+339,5,Dizzy Heights,Race,t,The Whirlygig,Race,t,Egg Scramble,Team,t,Tip Toe,Race,t,Hex-a-Gone,Final,f,,,,f,2020-08-25
+344,5,Gate Crash,Race,t,Door Dash,Race,t,Hoopsie Daisy,Team,t,Jump Club,Survival,t,Tip Toe,Race,t,Fall Mountain,Final,t,t,2020-08-25
+331,5,Gate Crash,Race,t,Slime Climb,Race,t,Hoopsie Daisy,Team,t,Tip Toe,Race,t,Jump Showdown,Final,f,,,,f,2020-08-24
+345,5,Door Dash,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Tip Toe,Race,f,,,,,,,f,2020-08-25
+3,5,Gate Crash,Race,t,Fruit Chute,Race,t,Tip Toe,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,f,2020-08-06
+19,5,The Whirlygig,Race,t,Roll Out,Survival,t,Slime Climb,Race,t,Fall Ball,Team,t,Jump Showdown,Final,f,,,,f,2020-08-13
+38,5,See Saw,Race,t,Hit Parade,Race,t,Fruit Chute,Race,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-14
+56,5,Dizzy Heights,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-15
+66,5,Door Dash,Race,t,See Saw,Race,t,Roll Out,Survival,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-15
+87,5,Door Dash,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+69,5,The Whirlygig,Race,t,Roll Out,Survival,t,Tail Tag,Hunt,t,Fall Ball,Team,f,,,,,,,f,2020-08-15
+130,5,Gate Crash,Race,t,Hoarders,Teams,t,Fruit Chute,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+156,5,Dizzy Heights,Race,t,Door Dash,Race,t,Hoopsie Daisy,Team,t,Fall Ball,Team,t,Fall Mountain,Final,t,,,,t,2020-08-18
+133,5,The Whirlygig,Race,t,Hoarders,Team,t,Slime Climb,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,f,2020-08-18
+157,5,See Saw,Race,t,Hoarders,Team,t,Jump Club,Survival,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-18
+153,5,Dizzy Heights,Race,t,Gate Crash,Race,t,Tail Tag,Hunt,t,Fall Ball,Team,f,,,,,,,f,2020-08-18
+135,5,Door Dash,Race,t,Jinxed,Team,t,Block Party,Survival,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+154,5,Door Dash,Race,t,Roll Out,Survival,t,Rock n Roll,Team,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+136,5,Hit Parade,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+194,5,See Saw,Race,t,Roll Out,Survival,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-20
+95,5,Door Dash,Race,t,Roll Out,Survival,t,Perfect Match,Logic,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-17
+96,5,Hit Parade,Race,t,See Saw,Race,t,Jump Club,Survival,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+77,5,The Whirlygig,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Fall Ball,Team,f,,,,,,,f,2020-08-17
+78,5,Gate Crash,Race,t,Perfect Match,Logic,t,Rock n Roll,Team,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-17
+108,5,Dizzy Heights,Race,t,Hoarders,Team,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Jump Showdown,Final,f,,,,f,2020-08-17
+140,5,The Whirlygig,Race,t,Dizzy Heights,Race,t,Block Party,Survival,t,Fall Ball,Team,t,Royal Fumble,Final,t,,,,t,2020-08-18
+166,5,Gate Crash,Race,t,Dizzy Heights,Race,t,Fruit Chute,Race,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-18
+170,5,Gate Crash,Race,t,Tail Tag,Team,t,Slime Climb,Race,t,Fall Ball,Team,f,,,,,,,f,2020-08-19
+148,5,Hit Parade,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,f,2020-08-18
+151,5,See Saw,Race,t,Slime Climb,Race,t,Block Party,Survival,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-18
+126,5,See Saw,Race,t,Hoarders,Team,t,Block Party,Survival,t,Fall Ball,Team,t,Royal Fumble,Final,t,,,,t,2020-08-18
+238,5,Dizzy Heights,Race,t,Door Dash,Race,t,Slime Climb,Race,t,Fall Ball,Team,t,Fall Mountain,Final,f,,,,f,2020-08-21
+180,5,Gate Crash,Race,t,Roll Out,Survival,t,Egg Scramble,Team,t,Fall Ball,Team,t,Hex-a-Gone,Final,t,,,,t,2020-08-19
+182,5,See Saw,Race,t,Hoarders,Team,t,Tail Tag,Hunt,t,Fall Ball,Team,t,Hex-a-Gone,Final,f,,,,f,2020-08-19
+283,5,See Saw,Race,t,Roll Out,Survival,t,Tip Toe,Race,t,Fall Ball,Team,t,Fall Mountain,Final,t,,,,t,2020-08-21
+308,5,Hit Parade,Race,t,Roll Out,Survival,t,Fruit Chute,Race,t,Fall Ball,Team,t,Jump Showdown,Final,f,,,,f,2020-08-24
+302,5,Door Dash,Race,t,Roll Out,Survival,t,Block Party,Survival,t,Fall Ball,Team,t,Royal Fumble,Final,f,,,,f,2020-08-24
+309,5,The Whirlygig,Race,t,Roll Out,Survival,t,Slime Climb,Race,t,Fall Ball,Team,t,Fall Mountain,Final,t,,,,t,2020-08-24
