@@ -16,3 +16,9 @@ Using Python, I separated each round into it's own dataframe. All rows with null
 ## Visualizing the data
 
 Imported the Excel file into Tableau, where I created visualizations of most common game modes played, win percentage and victories over time. All these can be found on my [Tableau](https://public.tableau.com/profile/douglas.pizac#!/vizhome/drlupo_fallguys/Fallguys?publish=yes) page. 
+
+### Update: 8-29-2020:
+
+On 8-27-2020, DrLupo showed my Tableau story live on his stream in front of tens of thousands of viewers. The following day, he showed it again to his tournament team who were all live streaming, resulting in my analyses being viewed live by over 30,000 people on Twitch.
+
+Using the data I compiled along with my recommendations, DrLupo's team finished the regulation rounds in first place and ended up 5th overall, securing a prize of $3000.
