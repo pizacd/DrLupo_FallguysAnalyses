@@ -11,7 +11,7 @@ Created a table in Postgres SQL. From there, I created a dataset by watching gam
 
 ## Cleaning the data
 
-Using Python, I separated each round into it's own dataframe. All rows with null values were removed, and then concatenated back into one master dataframe. Any mispellings or wrong values were replaced, and then the dataframe was exported as an Excel spreadsheet.
+Using Python, I separated each round into its own dataframe. All rows with null values were removed, and then concatenated back into one master dataframe. Any mispellings or wrong values were replaced, and then the dataframe was exported as an Excel spreadsheet.
 
 ## Visualizing the data
 
