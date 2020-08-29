@@ -23,5 +23,5 @@ On 8-27-2020, DrLupo showed my Tableau story live on his stream in front of tens
 
 Using the data I compiled along with my recommendations, DrLupo's team finished the regulation rounds in first place and ended up 5th overall, securing a prize of $3000.
 
-![Twitch Rivals Final Standings]
+[Twitch Rivals Final Standings]
 (https://img.resized.co/dexerto/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5kZXhlcnRvLmNvbVxcXC91cGxvYWRzXFxcLzIwMjBcXFwvMDhcXFwvMjgwNDAyMjFcXFwvZmFsbC1ndXlzLXR3aXRjaC1yaXZhbHMtYXVndXN0LTI4LXJlc3VsdHMuanBnXCIsXCJ3aWR0aFwiOjYyMCxcImhlaWdodFwiOjM0OSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvaW1hZ2VzLmRleGVydG8uY29tXFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8xMVxcXC8xMTIxNDk0M1xcXC9wbGFjZWhvbGRlci5qcGdcIixcIm9wdGlvbnNcIjp7XCJvdXRwdXRcIjpcIndlYnBcIn19IiwiaGFzaCI6IjVkNWQ2ZDAzZmZjNTNhZmRhOWMwYzljNTcyOTc4ZmFmNGM2Y2FhYTcifQ==/fall-guys-twitch-rivals-august-28-results.jpg)
